@@ -25,6 +25,10 @@
 
 The provided queries analyze the 2015 Presidential Election in Nigeria. Various aspects of the election data have been explored to understand voter turnout, party performances, regional patterns, and more.
 
+<img width="722" alt="2015 election png1" src="https://github.com/Creator4me/Exploratory-Data-Analysis-on-the-2015-Presidential-Election-in-Nigeria-Using-SQL/assets/140057655/ca289cfe-d847-4185-8ffb-cf6c1dbad3f2">
+
+<img width="733" alt="2015 election png2" src="https://github.com/Creator4me/Exploratory-Data-Analysis-on-the-2015-Presidential-Election-in-Nigeria-Using-SQL/assets/140057655/a9f0877d-f39b-426f-b725-15a4a50ec31d">
+
 ### Data Source
 
 2015 Presidential Election:The core dataset employed for this investigative review is the "2015election.csv" file, capturing the performance of the two main political parties during the 2015 presidential election.
