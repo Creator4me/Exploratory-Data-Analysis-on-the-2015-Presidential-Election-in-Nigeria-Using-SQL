@@ -44,7 +44,9 @@ The provided queries analyze the 2015 Presidential Election in Nigeria. Various 
 ### Data Cleaning And Preparation.
 
 In the initial Data Preparation Phase,The following task were performed
+
 1.Data Loading and Inspection
+
 2.Data Cleaning and Formatting
 
 ### Exploratory Data Analysis (EDA)
@@ -177,7 +179,8 @@ According to the analysis, I suggest the following:
  -We excluded records from other parties to prioritize our focus on the two main parties.
 
  ### References
- 1.Independent National Electoral Commission
+  - The Dataset used for this analysis was obained from Independent National Electoral Commission
+      - [Download here](https://www.inecnigeria.org)
 
 
 
